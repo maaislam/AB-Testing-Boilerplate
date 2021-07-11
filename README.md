@@ -4,6 +4,8 @@
 
 Use the package manager [npm](https://nodejs.org/en/) to install all the necessary dependencies.
 
+You will also have to install tampermonkey chrome extention.
+
 ## Usage
 
 Inside the index.js file of you variation folder make sure to do a default export of the function or variable.
