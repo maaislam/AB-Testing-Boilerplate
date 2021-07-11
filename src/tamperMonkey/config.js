@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Echologyx Userscript
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Simple AB Testing Boilerplate!
 // @author       You
-// @match       https://www.time4sleep.co.uk/
+// @match        https://www.time4sleep.co.uk/
 // ==/UserScript==
 
 console.log('testing;smfkgmskmg;sg');
